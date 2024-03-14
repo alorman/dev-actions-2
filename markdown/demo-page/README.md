@@ -1,7 +1,7 @@
-![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/jump-back.svg)
+[<img src="https://raw.githubusercontent.com/alorman/docs-bot/main/assets/jump-back.svg">](www.alexlorman.com/index)
 ![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/Research.svg)
-![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/images/package-1.JPG)
-![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/horizontal-bar.svg)
+[](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/images/package-1.JPG)
+[](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/horizontal-bar.svg)
 
 
 # All about SK6805-1515 LEDs
