@@ -80,4 +80,5 @@ The rapid non-linearity of the white values around 100/255 intensity is due to t
 
 For our math, I have only used the white intensity up to about 100/255, to avoid the resistance problems.
 
-<img src="https://raw.githubusercontent.com/alorman/docs-bot/main/assets/jump-back.svg?" width="100%" >
+
+[<img src="https://raw.githubusercontent.com/alorman/docs-bot/main/assets/jump-back.svg?">](http://www.alexlorman.com)
