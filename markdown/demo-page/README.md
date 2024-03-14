@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/alorman/docs-bot/main/assets/Research.svg?" alight="left" >  
-
+[<img src="http://raw.githubusercontent.com/alorman/docs-bot/main/assets/Research.svg?">](http://www.alexlorman.com)
 ![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/images/package-1.JPG?)   
 ![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/horizontal-bar.svg?)  
 
