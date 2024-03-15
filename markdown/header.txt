@@ -1,5 +1,5 @@
 [<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
 
-[](https://github.com/alorman/docs-bot/blob/main/assets/images/$IMAGE_NAME.JPG?raw=true)
+[](https://github.com/alorman/docs-bot/blob/main/assets/images/$IMAGE_NAME_LINK.JPG?raw=true)
 
-[](https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY.svg)
+[](https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY_LINK.svg)
