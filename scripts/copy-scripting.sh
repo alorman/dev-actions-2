@@ -1,3 +1,4 @@
+#!/bin/bash
 find -maxdepth 1 -type f -iname readme.md -exec cat docs-bot/markdown/header.txt {} > tempreadme.md \;
 echo "Found Readme and copied"
 cat docs-bot/markdown/footer.txt >> tempreadme.md
