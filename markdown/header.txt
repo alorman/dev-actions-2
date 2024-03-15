@@ -2,4 +2,4 @@
 
 [](https://github.com/alorman/docs-bot/blob/main/assets/images/IMAGE_NAME_LINK?raw=true)
 
-[](https://alorman-git-images.s3.amazonaws.com/PROJECT_CATEGORY_LINK)
+[](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/PROJECT_CATEGORY_LINK)
